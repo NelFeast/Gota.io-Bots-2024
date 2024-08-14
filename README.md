@@ -26,4 +26,4 @@ VPS
   - Eject: R
 
 ## Donate
-PayPal: [paypal.me](paypal.me/nelbots)
+PayPal: [paypal.me](https://paypal.me/nelbots)
