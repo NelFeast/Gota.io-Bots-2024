@@ -5,7 +5,7 @@ Windows
 -------
 1. Install [Node.js](https://nodejs.org)
 2. Install [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) extension on your browser
-3. Install <a href="#" target="_blank">Userscript</a>
+3. Install [Userscript](#)
 4. Download the bots files from this repository as a ZIP and extract them on a folder
 5. Run `install.bat` and wait for it to close by itself
 6. Run `start.bat` and leave it open
