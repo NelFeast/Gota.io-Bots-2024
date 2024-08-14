@@ -1,4 +1,5 @@
 # Gota.io-Bots-2024
+Developed by NelFeast
 
 # Installation
   - Download <a href="https://nodejs.org/" target="_blank">NodeJS</a>
