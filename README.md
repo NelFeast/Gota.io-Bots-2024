@@ -21,6 +21,9 @@ VPS
 7. Run `npm start` command and leave the process running
 8. Follow the same steps explained on `Windows` section for installing userscript in Tampermonkey
 
-# Bots Info
+## Bots Info
   - Split: E
   - Eject: R
+
+## Donate
+PayPal: paypal.me/nelbots
