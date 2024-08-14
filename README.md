@@ -6,3 +6,7 @@ Developed by NelFeast
   - Run the file install.bat.
   - Install <a href="https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en&pli=1" target="_blank">Tampermonkey</a>.
   - Install script <a href="#" target="_blank">Here</a>
+
+# Bots Info
+  - Split: #E
+  - Eject: #R
