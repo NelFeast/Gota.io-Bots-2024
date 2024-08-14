@@ -8,5 +8,5 @@ Developed by NelFeast
   - Install script <a href="#" target="_blank">Here</a>
 
 # Bots Info
-  - Split: #E
-  - Eject: #R
+  - Split: E
+  - Eject: R
